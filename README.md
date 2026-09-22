@@ -1,4 +1,9 @@
-EvenOddEscalator Two Lean-checked machines, same chassis. Thesis: Bounded local step does NOT imply bounded orbit. Smooth until environment says not today.
+# One
 
-    Stable - stays in the net - q < 1 vortex cannon, tuna, diesel, pendulum, egg, fish net, containers shaken not stirred orbit_prefix_mem_interval : stays in interval for k steps Mass = pressure = q. Mass under feet = biggest Mcap = biggest q.
-    Unstable - escapes - q = 1 EvenOddEscalator: even +3, odd +1, so two steps = +4 iterate_two_mul : step^[2k] n = n + 4*k → unbounded No left compensation. Something goes right so it can go more right. Both build with lake build , 0 sorry, 0 axiom beyond Mathlib. Old science: mass tells space how to bend. New file: System, bound, witness, drift.
+Two maps. Same chassis. One extra kick.
+
+- `stepU`: even +3, odd +1 → two steps +4 → unbounded
+- `stepS`: odd +1 onto a pair, even +0 → sits
+
+`Main.lean` shows a bounded local step can have an unbounded orbit.
+`Stable.lean` shows the pair-rest version stays put after one tick.
