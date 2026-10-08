@@ -26,5 +26,9 @@ lake exe one
 ```
 Requires leanprover/lean4:v4.10.0
 
+### Images
+
+Project images are stored in `assets/images/`.
+
 ### License
 MIT
